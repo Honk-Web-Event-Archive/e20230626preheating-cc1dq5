@@ -1,0 +1,94 @@
+{
+  "retcode": 0,
+  "message": "OK",
+  "data": {
+    "event_end_in_second": 534905,
+    "finish_tutorial": true,
+    "new_ticket": false,
+    "new_ticket_num": 0,
+    "owned_ticket": 2,
+    "ticket_limit": 8,
+    "item_list": [201, 202, 203],
+    "award_list": [
+      {
+        "task_config_id": 1001,
+        "task_status": "claimed",
+        "current_progress": 1,
+        "total_progress": 1
+      },
+      {
+        "task_config_id": 1002,
+        "task_status": "claimed",
+        "current_progress": 3,
+        "total_progress": 3
+      },
+      {
+        "task_config_id": 1003,
+        "task_status": "claimed",
+        "current_progress": 5,
+        "total_progress": 5
+      },
+      {
+        "task_config_id": 1004,
+        "task_status": "claimed",
+        "current_progress": 7,
+        "total_progress": 7
+      },
+      {
+        "task_config_id": 1005,
+        "task_status": "claimed",
+        "current_progress": 9,
+        "total_progress": 9
+      },
+      {
+        "task_config_id": 1006,
+        "task_status": "claimed",
+        "current_progress": 11,
+        "total_progress": 11
+      },
+      {
+        "task_config_id": 1007,
+        "task_status": "claimed",
+        "current_progress": 13,
+        "total_progress": 13
+      },
+      {
+        "task_config_id": 1008,
+        "task_status": "claimed",
+        "current_progress": 16,
+        "total_progress": 16
+      }
+    ],
+    "current_plot_progress": 0,
+    "total_plot_progress": 0,
+    "unlocked_dish": [
+      103, 102, 101, 105, 104, 106, 109, 107, 108, 112, 111, 110, 115, 114, 113,
+      116
+    ],
+    "workspace": {
+      "day": 5,
+      "next_day_time": "2023-08-03 04:00:00",
+      "wait_unlock": true,
+      "dish": [
+        { "dish_id": 113, "unlocked": true },
+        { "dish_id": 114, "unlocked": true },
+        { "dish_id": 115, "unlocked": true },
+        { "dish_id": 116, "unlocked": true }
+      ],
+      "material": [10, 12, 11, 17],
+      "grids_mask": {
+        "cells": "[[0,0,-1,0,0,0,0],[0,0,-1,0,0,0,0],[0,-1,-1,-1,-1,0,0],[0,-1,-1,-1,0,0,0],[0,0,0,0,0,0,0],[0,0,0,0,0,0,0],[0,0,0,0,0,0,0]]"
+      }
+    },
+    "unlocked_plot": [301, 302, 303, 304, 305, 306],
+    "show_workspace": false,
+    "dish_in_table": [113],
+    "dish_before": [
+      103, 102, 101, 105, 104, 106, 109, 107, 108, 112, 111, 110, 115, 114, 116
+    ],
+    "unread_dish": [
+      103, 102, 101, 105, 104, 106, 109, 107, 108, 112, 111, 110, 115, 114, 113,
+      116
+    ]
+  }
+}

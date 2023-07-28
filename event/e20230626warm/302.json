@@ -1,0 +1,56 @@
+{
+  "retcode": 0,
+  "message": "OK",
+  "data": {
+    "content": {
+      "id": 0,
+      "dialogues": [
+        {
+          "text": "Seele, look, the drinks are ready!",
+          "audio": "",
+          "role": 2
+        },
+        {
+          "text": "I always feel like the drinks should be accompanied by tea snacks so that everyone can drink and chat... I wonder if they'll like this drink...",
+          "audio": "",
+          "role": 2
+        },
+        {
+          "text": "Catering for so many people? She sure knows how to create trouble for herself.",
+          "audio": "",
+          "role": 1
+        },
+        {
+          "text": "Chaotic and noisy... just thinking about it gives me a headache...",
+          "audio": "",
+          "role": 1
+        },
+        { "text": "Seele, can I ask for your help?", "audio": "", "role": 2 },
+        {
+          "text": "Well, that's your guest, and I won't step in.",
+          "audio": "",
+          "role": 1
+        },
+        {
+          "text": "Hmm... What should I do then? I need someone to help me decorate the room, taste the dishes, and give me some feedback...",
+          "audio": "",
+          "role": 2
+        },
+        { "text": "Ah, fine...", "audio": "", "role": 1 },
+        { "text": "I'll help you, just this once...", "audio": "", "role": 1 },
+        {
+          "text": "That's great, Seele! Come taste it! Oh, by the way, I have some new ideas. After trying this one, I want to make some other drinks too!",
+          "audio": "",
+          "role": 2
+        },
+        { "text": "S-So quickly?", "audio": "", "role": 1 },
+        {
+          "text": "Seele, I'm counting on you. I want to hear your honest opinion about it!",
+          "audio": "",
+          "role": 2
+        },
+        { "text": "Huh? What?", "audio": "", "role": 1 }
+      ]
+    }
+  }
+}

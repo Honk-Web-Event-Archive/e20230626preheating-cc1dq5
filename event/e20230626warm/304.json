@@ -1,0 +1,95 @@
+{
+  "retcode": 0,
+  "message": "OK",
+  "data": {
+    "content": {
+      "id": 0,
+      "dialogues": [
+        { "text": "How about it? Are we all set now?", "audio": "", "role": 1 },
+        {
+          "text": "Hmm... I still feel like something's missing.",
+          "audio": "",
+          "role": 2
+        },
+        {
+          "text": "Thanks to Seele's reminder yesterday, I realized that not everyone prefers the same flavors as me.",
+          "audio": "",
+          "role": 2
+        },
+        {
+          "text": "And, I think it would be a bit dull if we only have beverages while we chat.",
+          "audio": "",
+          "role": 2
+        },
+        {
+          "text": "I could try some more special or nostalgic dishes. They might bring up new topics for our conversation.",
+          "audio": "",
+          "role": 2
+        },
+        { "text": "What do you think, Seele?", "audio": "", "role": 2 },
+        {
+          "text": "Today, my only job is to help you sort out the living room, and the rest is all up to you.",
+          "audio": "",
+          "role": 1
+        },
+        {
+          "text": "True, you've been busy with decorations, so I'll handle the rest.",
+          "audio": "",
+          "role": 2
+        },
+        {
+          "text": "It seems like you're gonna prepare more and more dishes...",
+          "audio": "",
+          "role": 1
+        },
+        {
+          "text": "... Speaking of which, you guys can be quite picky eaters.",
+          "audio": "",
+          "role": 1
+        },
+        {
+          "text": "Huh, really? Bronya maintains a very balanced diet, and Kiana's meals are usually taken care of by Mei.",
+          "audio": "",
+          "role": 2
+        },
+        {
+          "text": "Humph, there is no denying it. Kiana can vouch for that.",
+          "audio": "",
+          "role": 1
+        },
+        {
+          "text": "I remember it clearly. You all used to run long distances and eat lots and lots of cakes back at the Salt Lake Base.",
+          "audio": "",
+          "role": 1
+        },
+        {
+          "text": "So you were talking about back then, huh? Haha, nothing escapes your notice.",
+          "audio": "",
+          "role": 2
+        },
+        { "text": "You're so reliable!", "audio": "", "role": 2 },
+        {
+          "text": "Don't think you can get away with that!",
+          "audio": "",
+          "role": 1
+        },
+        {
+          "text": "Thanks to your reminder, I'll take this opportunity to make some healthy dishes and encourage everyone to eat well!",
+          "audio": "",
+          "role": 2
+        },
+        { "text": "Humph, that sounds about right...", "audio": "", "role": 1 },
+        {
+          "text": "No time to waste, so let's get started!",
+          "audio": "",
+          "role": 2
+        },
+        {
+          "text": "Alright, alright... Wait, how did I agree to this?",
+          "audio": "",
+          "role": 1
+        }
+      ]
+    }
+  }
+}

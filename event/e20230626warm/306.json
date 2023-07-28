@@ -1,0 +1,191 @@
+{
+  "retcode": 0,
+  "message": "OK",
+  "data": {
+    "content": {
+      "id": 0,
+      "dialogues": [
+        { "text": "Finally, we're almost ready!", "audio": "", "role": 2 },
+        {
+          "text": "We've added more variety to the dishes, and our little house has become even more beautiful!",
+          "audio": "",
+          "role": 2
+        },
+        {
+          "text": "Phew... Phew... This should be enough, right?",
+          "audio": "",
+          "role": 1
+        },
+        {
+          "text": "Yes, Seele, thank you for your hard work.",
+          "audio": "",
+          "role": 2
+        },
+        {
+          "text": "We've made so many delicious dishes. It will definitely surprise everyone!",
+          "audio": "",
+          "role": 2
+        },
+        {
+          "text": "Let me think, oh right, if we add some cute desserts, it will be even more lavish!",
+          "audio": "",
+          "role": 2
+        },
+        {
+          "text": "Hey, I'm telling you, take a break.",
+          "audio": "",
+          "role": 2
+        },
+        {
+          "text": "It's alright. Just picture the look on their faces when they taste the dishes. I'm fully driven!",
+          "audio": "",
+          "role": 2
+        },
+        {
+          "text": "Heh, the same old Seele. You never change.",
+          "audio": "",
+          "role": 2
+        },
+        {
+          "text": "Huh? Why are you saying that out of the blue...",
+          "audio": "",
+          "role": 2
+        },
+        {
+          "text": "You always focus on making others happy but often forget about yourself.",
+          "audio": "",
+          "role": 2
+        },
+        {
+          "text": "For parties like this, you should consider what you like best and how much time and energy you can put in first.",
+          "audio": "",
+          "role": 1
+        },
+        {
+          "text": "Or maybe, you can make some of your favorite dishes.",
+          "audio": "",
+          "role": 1
+        },
+        {
+          "text": "Haha, so we're both the same old Seele.",
+          "audio": "",
+          "role": 2
+        },
+        {
+          "text": "Or you can say that's just who Seele is, right?",
+          "audio": "",
+          "role": 2
+        },
+        { "text": "What do you mean?", "audio": "", "role": 1 },
+        {
+          "text": "Because you also care about me in the same way.",
+          "audio": "",
+          "role": 2
+        },
+        { "text": "... Nonsense.", "audio": "", "role": 1 },
+        {
+          "text": "Even though you're not interested in cooking, you sincerely helped me.",
+          "audio": "",
+          "role": 2
+        },
+        {
+          "text": "...I-I didn't! Don't make assumptions!",
+          "audio": "",
+          "role": 1
+        },
+        { "text": "I appreciate your kindness.", "audio": "", "role": 2 },
+        {
+          "text": "Humph, you're getting it all wrong. All I have is a black heart.",
+          "audio": "",
+          "role": 1
+        },
+        {
+          "text": "You gave me helpful suggestions and did so many things for me...",
+          "audio": "",
+          "role": 2
+        },
+        {
+          "text": "Oh, really? I was just in the mood at the time.",
+          "audio": "",
+          "role": 1
+        },
+        {
+          "text": "You can handle the rest on your own.",
+          "audio": "",
+          "role": 1
+        },
+        {
+          "text": "... But I also tried to make a cake. Without you, I wouldn't know if it tastes good or not...",
+          "audio": "",
+          "role": 2
+        },
+        { "text": "Humph...", "audio": "", "role": 1 },
+        {
+          "text": "Well, I'll lend you a hand, just so you'll stop pestering me...",
+          "audio": "",
+          "role": 1
+        },
+        { "text": "Hey, you're getting too close!", "audio": "", "role": 1 },
+        {
+          "text": "Go ahead, try the cake and give me your honest opinion!",
+          "audio": "",
+          "role": 2
+        },
+        {
+          "text": "I'm just helping you taste the food, not for those guys!",
+          "audio": "",
+          "role": 1
+        },
+        { "text": "Yeah, I know.", "audio": "", "role": 2 },
+        {
+          "text": "Hmm... The cake is soft and sweet, and the cream is smooth and light...",
+          "audio": "",
+          "role": 1
+        },
+        {
+          "text": "Hmm... It's still a bit too sweet.",
+          "audio": "",
+          "role": 1
+        },
+        {
+          "text": "In that case, let's add some caramel sea salt sauce. That should balance out the sweetness!",
+          "audio": "",
+          "role": 2
+        },
+        {
+          "text": "Or maybe we can garnish it with some tangy strawberries?",
+          "audio": "",
+          "role": 1
+        },
+        {
+          "text": "Oh, right, that could work too! Thanks, Seele!",
+          "audio": "",
+          "role": 2
+        },
+        { "text": "... Seele?", "audio": "", "role": 2 },
+        { "text": "What's the matter?", "audio": "", "role": 1 },
+        {
+          "text": "Thank you for enjoying the cake I made.",
+          "audio": "",
+          "role": 2
+        },
+        {
+          "text": "... You gave me too big of a slice, and I just want to finish it quickly.",
+          "audio": "",
+          "role": 1
+        },
+        {
+          "text": "Even though I'm not a fan of sweet things like this, it's... well, not bad.",
+          "audio": "",
+          "role": 1
+        },
+        {
+          "text": "I'll make some improvements to the recipe, and I'm sure you'll like it even more!",
+          "audio": "",
+          "role": 2
+        },
+        { "text": "Alright... Then I'll be waiting.", "audio": "", "role": 1 }
+      ]
+    }
+  }
+}

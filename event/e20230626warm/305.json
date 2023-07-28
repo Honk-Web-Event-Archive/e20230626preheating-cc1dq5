@@ -1,0 +1,58 @@
+{
+  "retcode": 0,
+  "message": "OK",
+  "data": {
+    "content": {
+      "id": 0,
+      "dialogues": [
+        {
+          "text": "We've prepared quite a lot of dishes, phew~",
+          "audio": "",
+          "role": 1
+        },
+        { "text": "Hmm... Seele...", "audio": "", "role": 2 },
+        {
+          "text": "What's wrong? Cat got your tongue?",
+          "audio": "",
+          "role": 1
+        },
+        {
+          "text": "Just now, Bronya told me that \"besides the greedy idiotka, there's another childish guest who needs your attention\"...",
+          "audio": "",
+          "role": 2
+        },
+        {
+          "text": "Oh, no! Why did that guy have to show up too?",
+          "audio": "",
+          "role": 1
+        },
+        {
+          "text": "Although I couldn't figure out who Bronya was referring to, it's always safe to prepare more dishes for our guests!",
+          "audio": "",
+          "role": 2
+        },
+        {
+          "text": "So, I've slightly expanded the menu, Seele~",
+          "audio": "",
+          "role": 2
+        },
+        {
+          "text": "I have some things to attend to as well.",
+          "audio": "",
+          "role": 1
+        },
+        { "text": "Huh, what are you doing today?", "audio": "", "role": 2 },
+        {
+          "text": "In addition to helping someone taste the dishes, I also need to carefully arrange this place so that the \"childish guest\" won't nitpick later.",
+          "audio": "",
+          "role": 1
+        },
+        {
+          "text": "Seele, you're so considerate! I'll work hard too!",
+          "audio": "",
+          "role": 2
+        }
+      ]
+    }
+  }
+}
