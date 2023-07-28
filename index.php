@@ -56,11 +56,10 @@ if (!isset($_GET['authkey'])) {
     <script>
       const urlParams = new URLSearchParams(window.location.search);
       const entries = urlParams.entries();
+      window.doSeeleCG = false;
       for (const entry of entries) {
         if (entry[0] == "doCG" && entry[1] == "true") {
           window.doSeeleCG = true;
-        } else {
-          window.doSeeleCG = false;
         }
       }      
     </script>
