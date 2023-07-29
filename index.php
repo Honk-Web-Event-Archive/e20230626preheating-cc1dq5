@@ -54,6 +54,8 @@ if (!isset($_GET['authkey'])) {
     />
     <title></title>
     <script>
+	  window.blankFile = "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw";
+	  window.blankAudio = "data:audio/wav;base64,UklGRjIAAABXQVZFZm10IBIAAAABAAEAQB8AAEAfAAABAAgAAABmYWN0BAAAAAAAAABkYXRhAAAAAA==";
       const urlParams = new URLSearchParams(window.location.search);
       const entries = urlParams.entries();
       window.doSeeleCG = false;

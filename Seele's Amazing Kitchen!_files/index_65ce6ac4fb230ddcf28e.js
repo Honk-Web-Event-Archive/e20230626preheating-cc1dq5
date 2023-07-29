@@ -17823,11 +17823,11 @@
     },
     81629: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/icon_back.76e02486..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/icon_back.76e02486..png";
     },
     30065: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/icon_camera.a37e63e3..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/icon_camera.a37e63e3..png";
     },
     78247: function (t) {
       "use strict";
@@ -17836,11 +17836,11 @@
     },
     22359: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/icon_gift.7fe20041..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/icon_gift.7fe20041..png";
     },
     47748: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/icon_info.f3c571c4..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/icon_info.f3c571c4..png";
     },
     90869: function (t) {
       "use strict";
@@ -17854,23 +17854,23 @@
     },
     93424: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/icon_menu.e9d4d40e..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/icon_menu.e9d4d40e..png";
     },
     30419: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/icon_more.fb304bdd..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/icon_more.fb304bdd..png";
     },
     11492: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/icon_music.9cfd8c19..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/icon_music.9cfd8c19..png";
     },
     4861: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/icon_music_close.76df9baa..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/icon_music_close.76df9baa..png";
     },
     47521: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/icon_replay.b111d2c1..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/icon_replay.b111d2c1..png";
     },
     54739: function (t) {
       "use strict";
@@ -17879,219 +17879,219 @@
     },
     17664: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/article-201-select.ca4d1e73..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/article-201-select.ca4d1e73..png";
     },
     10304: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/article-201.f32b49d5..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/article-201.f32b49d5..png";
     },
     30896: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/article-202-select.05396770..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/article-202-select.05396770..png";
     },
     58919: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/article-202.98f63172..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/article-202.98f63172..png";
     },
     96108: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/article-203-select.e8fc0154..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/article-203-select.e8fc0154..png";
     },
     99727: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/article-203.1cbb8d02..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/article-203.1cbb8d02..png";
     },
     71985: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/article-lock.f63869da..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/article-lock.f63869da..png";
     },
     55274: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/level-1.17c9b789..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/level-1.17c9b789..png";
     },
     90827: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/level-2.426d8226..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/level-2.426d8226..png";
     },
     16221: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/level-3.98afcead..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/level-3.98afcead..png";
     },
     44970: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/eyes.4eda1b3c..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/eyes.4eda1b3c..png";
     },
     34971: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/happy.3c5f5d69..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/happy.3c5f5d69..png";
     },
     12699: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/love.360d0aec..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/love.360d0aec..png";
     },
     95543: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/normal.b5018a3f..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/normal.b5018a3f..png";
     },
     76144: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/sick.93b2ebf2..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/sick.93b2ebf2..png";
     },
     45635: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/smile.124e9276..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/smile.124e9276..png";
     },
     19310: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/think.449a13b9..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/think.449a13b9..png";
     },
     69312: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food.bd2e6045..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food.bd2e6045..png";
     },
     26239: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food_icon.da736311..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food_icon.da736311..png";
     },
     46492: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food_made.95589856..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food_made.95589856..png";
     },
     93610: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food.b1c9f381..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food.b1c9f381..png";
     },
     50778: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food_icon.41ba8165..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food_icon.41ba8165..png";
     },
     76456: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food_made.64582b99..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food_made.64582b99..png";
     },
     41519: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food.f97ffb56..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food.f97ffb56..png";
     },
     29157: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food_icon.74275dd5..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food_icon.74275dd5..png";
     },
     59655: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food_made.e8969f57..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food_made.e8969f57..png";
     },
     44837: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food.b9c32d66..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food.b9c32d66..png";
     },
     8223: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food_icon.692784d9..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food_icon.692784d9..png";
     },
     93463: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food_made.a660472d..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food_made.a660472d..png";
     },
     57639: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food.58db6b11..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food.58db6b11..png";
     },
     13538: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food_icon.36ed01cf..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food_icon.36ed01cf..png";
     },
     38568: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food_made.4e53519f..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food_made.4e53519f..png";
     },
     4365: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food.cb9281a8..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food.cb9281a8..png";
     },
     44305: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food_icon.6b081d63..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food_icon.6b081d63..png";
     },
     60676: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food_made.610a9ebd..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food_made.610a9ebd..png";
     },
     60405: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food.8410af09..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food.8410af09..png";
     },
     22005: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food_icon.056ff40f..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food_icon.056ff40f..png";
     },
     95668: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food_made.cbf412e9..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food_made.cbf412e9..png";
     },
     59082: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food.44b15e40..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food.44b15e40..png";
     },
     50119: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food_icon.b85e8051..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food_icon.b85e8051..png";
     },
     14178: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food_made.b2419e3d..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food_made.b2419e3d..png";
     },
     76626: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food.0584f92f..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food.0584f92f..png";
     },
     10843: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food_icon.f6ba27c2..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food_icon.f6ba27c2..png";
     },
     14379: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food_made.e46dd84e..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food_made.e46dd84e..png";
     },
     99585: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food.8b2c6f84..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food.8b2c6f84..png";
     },
     2938: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food_icon.259ab772..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food_icon.259ab772..png";
     },
     67664: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food_made.29e0aefa..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food_made.29e0aefa..png";
     },
     69639: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food.06f04df5..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food.06f04df5..png";
     },
     18887: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food_icon.b9a6043f..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food_icon.b9a6043f..png";
     },
     6391: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food_made.b2fbffee..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food_made.b2fbffee..png";
     },
     10256: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food.7fd9363a..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food.7fd9363a..png";
     },
     42285: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food_icon.7f918b1f..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food_icon.7f918b1f..png";
     },
     23017: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food_made.8835e69c..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food_made.8835e69c..png";
     },
     34573: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food.e4680c38..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food.e4680c38..png";
     },
     50330: function (t) {
       "use strict";
@@ -18105,7 +18105,7 @@
     },
     69002: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food.9fd99829..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food.9fd99829..png";
     },
     48129: function (t) {
       "use strict";
@@ -18119,7 +18119,7 @@
     },
     72262: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food.2c0b2e03..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food.2c0b2e03..png";
     },
     14508: function (t) {
       "use strict";
@@ -18133,7 +18133,7 @@
     },
     69656: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/food.818663e6..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/food.818663e6..png";
     },
     91287: function (t) {
       "use strict";
@@ -18152,11 +18152,11 @@
     },
     37814: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/menu_bg.6e0e2936..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/menu_bg.6e0e2936..png";
     },
     89813: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/menu_logobg.ae7595ab..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/menu_logobg.ae7595ab..png";
     },
     4400: function (t) {
       "use strict";
@@ -18170,31 +18170,31 @@
     },
     83393: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/level-1.92975404..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/level-1.92975404..png";
     },
     45401: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/level-2.9244aba5..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/level-2.9244aba5..png";
     },
     14650: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/level-3.39c12fa9..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/level-3.39c12fa9..png";
     },
     70451: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/level-4.e73f7b42..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/level-4.e73f7b42..png";
     },
     77259: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/model_bg.fcd709c6..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/model_bg.fcd709c6..png";
     },
     68338: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/model_bg_w.7d0974d2..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/model_bg_w.7d0974d2..png";
     },
     78284: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/share_figure.4184b8ca..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/share_figure.4184b8ca..png";
     },
     41753: function (t) {
       "use strict";
@@ -18213,7 +18213,7 @@
     },
     11686: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/raw.e5f857de..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/raw.e5f857de..png";
     },
     13288: function (t) {
       "use strict";
@@ -18227,7 +18227,7 @@
     },
     15290: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/raw.caaf1762..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/raw.caaf1762..png";
     },
     38844: function (t) {
       "use strict";
@@ -18241,7 +18241,7 @@
     },
     94730: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/raw.179e7dbd..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/raw.179e7dbd..png";
     },
     1897: function (t) {
       "use strict";
@@ -18255,7 +18255,7 @@
     },
     23400: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/raw.f6649379..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/raw.f6649379..png";
     },
     90556: function (t) {
       "use strict";
@@ -18269,7 +18269,7 @@
     },
     38915: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/raw.855e2160..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/raw.855e2160..png";
     },
     60910: function (t) {
       "use strict";
@@ -18283,7 +18283,7 @@
     },
     53652: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/raw.021d0bfb..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/raw.021d0bfb..png";
     },
     5603: function (t) {
       "use strict";
@@ -18297,7 +18297,7 @@
     },
     55242: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/raw.0ed34c4a..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/raw.0ed34c4a..png";
     },
     36014: function (t) {
       "use strict";
@@ -18311,7 +18311,7 @@
     },
     13767: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/raw.de9799d1..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/raw.de9799d1..png";
     },
     99016: function (t) {
       "use strict";
@@ -18325,7 +18325,7 @@
     },
     74701: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/raw.024a16c4..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/raw.024a16c4..png";
     },
     86223: function (t) {
       "use strict";
@@ -18339,7 +18339,7 @@
     },
     77239: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/raw.4717103f..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/raw.4717103f..png";
     },
     95138: function (t) {
       "use strict";
@@ -18353,7 +18353,7 @@
     },
     47584: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/raw.7a47ec74..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/raw.7a47ec74..png";
     },
     31146: function (t) {
       "use strict";
@@ -18367,7 +18367,7 @@
     },
     76054: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/raw.36e48735..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/raw.36e48735..png";
     },
     49270: function (t) {
       "use strict";
@@ -18381,7 +18381,7 @@
     },
     16036: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/raw.ddea4d67..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/raw.ddea4d67..png";
     },
     20387: function (t) {
       "use strict";
@@ -18395,7 +18395,7 @@
     },
     35942: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/raw.be13cee5..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/raw.be13cee5..png";
     },
     65796: function (t) {
       "use strict";
@@ -18409,7 +18409,7 @@
     },
     97619: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/raw.1b208410..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/raw.1b208410..png";
     },
     51808: function (t) {
       "use strict";
@@ -18423,7 +18423,7 @@
     },
     6693: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/raw.a5133659..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/raw.a5133659..png";
     },
     83435: function (t) {
       "use strict";
@@ -18437,7 +18437,7 @@
     },
     38816: function (t, e, r) {
       "use strict";
-      t.exports = r.p + "images/raw.7cf734d0..png";
+      t.exports = window.doSeeleCG ? window.blankFile : "images/raw.7cf734d0..png";
     },
     10311: function (t) {
       "use strict";
