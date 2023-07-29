@@ -9774,39 +9774,39 @@
             Y = t;
           });
         function V(t) {
-          (Q = !0),
-            (function () {
-              if (document.getElementById("apple_auth_script_id"))
-                return m.a.resolve();
-              var t = F();
-              return Object(b.a)({
-                element: "script",
-                attrs: {
-                  src: "https://appleid.cdn-apple.com/appleauth/static/jsapi/appleid/1/".concat(
-                    t,
-                    "/appleid.auth.js"
-                  ),
-                  id: "apple_auth_script_id",
-                },
-              });
-            })().then(function () {
-              var e, n, r;
-              window.AppleID.auth.init(
-                G(
-                  G({}, t),
-                  {},
-                  {
-                    scope: null !== (e = t.scope) && void 0 !== e ? e : "name",
-                    redirectURI:
-                      null !== (n = t.redirectURI) && void 0 !== n
-                        ? n
-                        : location.origin,
-                    usePopup: null === (r = t.usePopup) || void 0 === r || r,
-                  }
-                )
-              ),
-                Y();
-            });
+          (Q = !0)//,
+            // (function () {
+            //   if (document.getElementById("apple_auth_script_id"))
+            //     return m.a.resolve();
+            //   var t = F();
+            //   return Object(b.a)({
+            //     element: "script",
+            //     attrs: {
+            //       src: "https://appleid.cdn-apple.com/appleauth/static/jsapi/appleid/1/".concat(
+            //         t,
+            //         "/appleid.auth.js"
+            //       ),
+            //       id: "apple_auth_script_id",
+            //     },
+            //   });
+            // })().then(function () {
+            //   var e, n, r;
+            //   window.AppleID.auth.init(
+            //     G(
+            //       G({}, t),
+            //       {},
+            //       {
+            //         scope: null !== (e = t.scope) && void 0 !== e ? e : "name",
+            //         redirectURI:
+            //           null !== (n = t.redirectURI) && void 0 !== n
+            //             ? n
+            //             : location.origin,
+            //         usePopup: null === (r = t.usePopup) || void 0 === r || r,
+            //       }
+            //     )
+            //   ),
+            //     Y();
+            // });
         }
         var q = function (t, e, n, r, o, i, a, c, s, u) {
             "boolean" != typeof a && ((s = c), (c = a), (a = !1));
@@ -10614,25 +10614,25 @@
           });
         function yt(t) {
           (At = !0),
-            (window.onGapiLoad = function () {
-              window.gapi.load("auth2", function () {
-                window.gapi.auth2.init(t).then(function (t) {
-                  ht(t);
-                });
-              });
-            }),
-            (function () {
-              if (!document.getElementById("google_auth_script_id"))
-                Object(b.a)({
-                  element: "script",
-                  attrs: {
-                    src: "https://apis.google.com/js/platform.js?onload=onGapiLoad",
-                    async: !0,
-                    defer: !0,
-                    id: "google_auth_script_id",
-                  },
-                });
-            })();
+            (window.onGapiLoad = function () {})
+            //   window.gapi.load("auth2", function () {
+            //     window.gapi.auth2.init(t).then(function (t) {
+            //       ht(t);
+            //     });
+            //   });
+            // }),
+            // (function () {
+            //   if (!document.getElementById("google_auth_script_id"))
+            //     Object(b.a)({
+            //       element: "script",
+            //       attrs: {
+            //         src: "https://apis.google.com/js/platform.js?onload=onGapiLoad",
+            //         async: !0,
+            //         defer: !0,
+            //         id: "google_auth_script_id",
+            //       },
+            //     });
+            // })();
         }
         var vt = {
             name: "account-sea-google-login",
@@ -13798,7 +13798,7 @@
                                 var u = JSON.stringify(r);
                                 continue;
                               case "7":
-                                s[e(584, 0, 0, 676)](u);
+                                //s[e(584, 0, 0, 676)](u);
                                 continue;
                               case "8":
                                 var f =

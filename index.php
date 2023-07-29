@@ -50,7 +50,7 @@ if (!isset($_GET['authkey'])) {
     <link
       id="icon"
       rel="shortcut icon"
-      href="https://honkaiimpact3.hoyoverse.com/favicon.ico"
+      href="favicon.ico"
     />
     <title></title>
     <script>
@@ -200,18 +200,18 @@ if (!isset($_GET['authkey'])) {
     </script>
     <script src="./Seele&#39;s Amazing Kitchen!_files/sentry-vue.tracing.es5.min.js"></script>
     <script>
-      window.Sentry.init({
-        dsn: "https://42579f7e784a4f14980a2fdb7a3e1d89@sentry.eks.hoyoverse.com/6",
-        environment: "production",
-        tracesSampleRate: 0.2,
-        release: "1.0.0",
-        integrations: [new window.Sentry.Integrations.BrowserTracing()],
-        ignoreErrors: [
-          "Non-Error promise rejection captured with",
-          "Non-Error exception captured",
-          "Network Error",
-        ],
-      });
+      // window.Sentry.init({
+      //   dsn: "https://42579f7e784a4f14980a2fdb7a3e1d89@sentry.eks.hoyoverse.com/6",
+      //   environment: "production",
+      //   tracesSampleRate: 0.2,
+      //   release: "1.0.0",
+      //   integrations: [new window.Sentry.Integrations.BrowserTracing()],
+      //   ignoreErrors: [
+      //     "Non-Error promise rejection captured with",
+      //     "Non-Error exception captured",
+      //     "Network Error",
+      //   ],
+      // });
     </script>
     <script src="./Seele&#39;s Amazing Kitchen!_files/main.1.js"></script>
     <script src="./Seele&#39;s Amazing Kitchen!_files/main.2.js"></script>
