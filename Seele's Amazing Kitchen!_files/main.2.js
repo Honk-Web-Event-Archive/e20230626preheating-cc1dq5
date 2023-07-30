@@ -6740,7 +6740,7 @@
                       return new Error("please set request url");
                     if (!p)
                       return new Error("Cannot create an XMLHTTP instance");
-                    p.onreadystatechange = function () {
+/*                     p.onreadystatechange = function () {
                       if (4 === p.readyState)
                         if (200 === p.status)
                           try {
@@ -6753,12 +6753,21 @@
                             e.failure(t);
                           }
                         else e.failure(p);
-                    };
-                    var h =
+                    }; */
+/*                     var h =
                       "json" === e.requestDataType
                         ? JSON.stringify(e.data)
-                        : s(e.data);
-                    return (
+                        : s(e.data); */
+					
+					try	{
+						console.log("successing: ",e.url);
+						e.success(window.otherText);
+					}
+					catch (error) {
+						e.failure(error);
+                    }					
+					console.log("e.url",e.url)
+                    return /* (
                       e.type === u &&
                         "" !== h &&
                         ((e.url =
@@ -6778,7 +6787,7 @@
                       e.withCredentials && (p.withCredentials = !0),
                       p.send(e.type === f ? h : ""),
                       p
-                    );
+                    ); */
                   }),
                   y = (e.getJSON = function () {
                     var t =
@@ -6923,6 +6932,7 @@
                       default:
                         (e = null), console.log("not support data type");
                     }
+					console.log("e; ",e)
                     return e;
                   });
                 e.default = {
@@ -23392,7 +23402,11 @@
               a = i.timeout;
             if (!fetch) throw new Error("Global fetch not exist!");
             return (
-              a > 0 && (n = x.a.race([fetch(o, i), V(a, t.req)])),
+              a > 0 && (n = x.a.race([
+			  o.includes("getExtList") ? 
+			  window.jsonsB64["getExtList"] : 
+			  fetch(o, i), 
+			  V(a, t.req)])),			  
               n.then(function (n) {
                 return (t.res = n), e();
               })
@@ -23497,7 +23511,7 @@
                 ? arguments[0]
                 : {},
             e = new J(t),
-            n = function (t, n, r) {
+            n = function (t, n, r) { //t=url, n={platform:4}, r= {method:get}
               var o = G(e.defaultConfigs, r);
               return e.request(t, n, o);
             };

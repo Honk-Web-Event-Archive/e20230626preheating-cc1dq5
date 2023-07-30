@@ -8946,7 +8946,15 @@
                         r
                       );
                     }
-                    var p = new XMLHttpRequest();
+					if (e.url == "admin/mi18n/plat_oversea/m05302259261621/m05302259261621-en-us.json"){
+						try {
+							e.success(window.platText)
+						} catch(err) {
+							e.failure(err)
+						}
+					}
+					
+                    var p = new XMLHttpRequest();					
                     if ("" === e.url)
                       return new Error("please set request url");
                     if (!p)
@@ -8961,11 +8969,11 @@
                             )
                           : e.failure(p));
                     };
-                    var d =
+/*                     var d =
                       "json" === e.requestDataType
                         ? JSON.stringify(e.data)
-                        : s(e.data);
-                    return (
+                        : s(e.data); */
+                    return /* (
                       e.type === u &&
                         "" !== d &&
                         ((e.url =
@@ -8985,7 +8993,7 @@
                       e.withCredentials && (p.withCredentials = !0),
                       p.send(e.type === l ? d : ""),
                       p
-                    );
+                    ); */
                   }),
                   v = (e.getJSON = function () {
                     var t =
