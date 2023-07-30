@@ -36,6 +36,27 @@
     />
     <title></title>
     <script>
+	
+	
+	window.wallpaperPropertyListener = {
+		applyUserProperties: function(properties) {
+			let audioPlayer = document.querySelector("#frame > div > div.m-audio-player").__vue__
+			
+			if (properties.enableaudio) {
+			let isEnabled = properties.enableaudio.value
+				if (isEnabled){
+					window.playBGM=true;
+					audioPlayer.play()				
+				} else {
+					window.playBGM=false;
+					audioPlayer.pause()						
+				}
+
+			} 
+			
+		},
+	};	
+	
 	  window.blankFile = "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw";
 	  window.blankAudio = "data:audio/wav;base64,UklGRjIAAABXQVZFZm10IBIAAAABAAEAQB8AAEAfAAABAAgAAABmYWN0BAAAAAAAAABkYXRhAAAAAA==";
       const urlParams = new URLSearchParams(window.location.search);

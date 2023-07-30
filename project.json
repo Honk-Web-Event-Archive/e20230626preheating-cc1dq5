@@ -1,0 +1,30 @@
+{
+	"description" : "A beautiful CG taken from Honkai Impact 3's \"Seele's Amazing Kitchen\" event.\n\nThis is the web version, taken straight from the site, with the code changed a bit so it works without a server.\n\nCheck out the video version here: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3012199751][Honkai Impact 3] Seele and \"Seele\" [1080p 60fps MP4]\n[/url]",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"enableaudio" : 
+			{
+				"index" : 0,
+				"order" : 100,
+				"text" : "Enable Audio",
+				"type" : "bool",
+				"value" : true
+			},
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.07058823529411765 0.25098039215686274 0.4745098039215686"
+			}
+		}
+	},
+	"preview" : "preview.gif",
+	"tags" : [ "Anime" ],
+	"title" : "[Honkai Impact 3] Seele and \"Seele\" [WEB]",
+	"type" : "web",
+	"version" : 0
+}
